@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/tommy-bynum-heating-cooling-missed-call-demo/sitemap.xml
